@@ -1,5 +1,5 @@
 # MyProjects
-A little repository that lists all my public projects. Each repository has code and more information on each project.
+A little repository that lists all my projects. Each repository has code and more information on each project.
 
 
 Minecraft Minigames:
