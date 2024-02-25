@@ -4,6 +4,11 @@ A little repository that lists all my projects. Each repository has code and mor
 
 Minecraft Minigames:
 
+**DeltaCraft (WIP)**
+
+- Repo: https://github.com/HerobrineGamesYT/DeltaCraft
+- Description: A dungeons minigame full of surprises. Based off of the well-known game Hypixel SkyBlock. Contains custom items and objects, NPCs, and more. Even though this project is unfinished, I wanted to showcase it as it shows some of my most recent code and also is my most ambitious game design project to date.
+
 **Walls SG**:
 - Repo: https://github.com/HerobrineGamesYT/WallsSG
 - Description: Mine within your space to upgrade your gear before the walls fall. The NPCs outside of each team cave will have special items for you to purchase! Last team standing wins. Also supports a custom MODIFIER gamemode that allows players to select a custom class to play, each with a special ability.
