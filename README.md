@@ -4,7 +4,7 @@ A little repository that lists all my projects. Each repository has code and mor
 
 Minecraft Minigames:
 
-**DeltaCraft (WIP)**
+**DeltaCraft (WIP)**:
 
 - Repo: https://github.com/HerobrineGamesYT/DeltaCraft
 - Description: A dungeons minigame full of surprises. Based off of the well-known game Hypixel SkyBlock. Contains custom items and objects, NPCs, and more. Even though this project is unfinished, I wanted to showcase it as it shows some of my most recent code and also is my most ambitious game design project to date.
