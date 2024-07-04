@@ -1,5 +1,9 @@
 # MyProjects
-A little repository that lists all my projects. Each repository has code and more information on each project.
+A little repository that lists all my projects. Each repository has code (where applicable) and more information on each project.
+
+Master Royale/Master Royale Infinity:
+- Dedicated Repo (No source code available, just more info about the project and my involvement in it):  https://github.com/HerobrineGamesYT/MasterRoyaleInfo/
+- Description: One of the most well-known Clash Royale private servers, with a lot of wild custom content and gameplay!
 
 
 Minecraft Minigames:
@@ -22,7 +26,7 @@ Minecraft Minigames:
 - Description: Block Hunt is a game about teamwork and Minecraft skills. Work with your team to find or craft your assigned block and stand on it within 5 minutes to win the round! Best of 3 rounds wins! Supports custom modifiers as well.
 
 
-Core Plugins:
+Core Minecraft Plugins:
 
 **HerobrinePVP-CORE**:
 - Repo: https://github.com/HerobrineGamesYT/HerobrinePVP-CORE
