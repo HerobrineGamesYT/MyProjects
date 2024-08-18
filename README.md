@@ -8,6 +8,11 @@ A little repository that lists all my projects. Each repository has code (where 
 
 Minecraft Minigames:
 
+**Quirk Battles (Indev, Currently playable)**:
+
+- Repo: https://github.com/HerobrineGamesYT/QuirkBattles/
+- Description: A unique take on a PVP gamemode where players fight each other with custom kits with special abilities (or "Quirks") based on My Hero Academia.
+
 **DeltaCraft (WIP)**:
 
 - Repo: https://github.com/HerobrineGamesYT/DeltaCraft
